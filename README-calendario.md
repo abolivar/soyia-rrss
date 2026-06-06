@@ -11,7 +11,9 @@ para que el CSV, los guiones y el manifiesto queden siempre sincronizados.
 
 | Archivo | Qué es |
 |---|---|
-| `soyia-calendario-completo.csv` | 160 posts en formato Social Planner (GoHighLevel). 162 líneas (2 de encabezado + 160 de datos). Listo para importar tras reemplazar `[REPO_BASE]`. |
+| `soyia-calendario-parte-1.csv` | **Para importar.** Posts 1–90 (semanas 1–18): lun 8-jun-2026 → vie 9-oct-2026. |
+| `soyia-calendario-parte-2.csv` | **Para importar.** Posts 91–160 (semanas 19–40): lun 12-oct-2026 → vie 12-mar-2027. |
+| `soyia-calendario-completo.csv` | Los 160 posts en un solo archivo (referencia/respaldo). Social Planner importa máx. 90 por archivo, por eso se usa el par parte-1/parte-2. |
 | `soyia-guiones-carruseles.md` | Guion slide por slide de los 30 carruseles de caso (3 slides) y 10 premium (5–8 slides). El CSV solo lleva el caption; el texto de cada lámina vive aquí. |
 | `soyia-repo-manifiesto.md` | Lista exacta de las **278 imágenes** a subir, con los nombres que el CSV espera. |
 | `generate_calendar.py` | El generador. Fuente de verdad de los 160 textos. |
@@ -112,7 +114,7 @@ La base de URL ya está puesta y los 90 slides de carrusel de caso ya están en 
 
 1. **Diseñar / exportar las 188 imágenes restantes** (`frase-*`, `mito-*`, `dato-*`, `cifra-*`, `complejo-*`) y nombrarlas según `soyia-repo-manifiesto.md`.
 2. **Subirlas a la carpeta `images/`** del repo (`git add images/ && git commit && git push`).
-3. **Importar** `soyia-calendario-completo.csv` a Social Planner (GoHighLevel). No hace falta find-replace: las URLs ya están resueltas.
+3. **Importar a Social Planner (GoHighLevel) en dos cargas** (el importador admite máx. 90 posts por archivo): primero `soyia-calendario-parte-1.csv` (90) y luego `soyia-calendario-parte-2.csv` (70). No hace falta find-replace: las URLs ya están resueltas. `soyia-calendario-completo.csv` queda como respaldo, no se importa.
 
 > El nombre de archivo en `images/` debe coincidir 1:1 con el del CSV. Si el manifiesto dice `caso-07-slide-2.png`, ese archivo debe existir con ese nombre en `images/`.
 

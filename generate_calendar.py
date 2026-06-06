@@ -728,12 +728,23 @@ def build_csv_row(post_at, row):
 # ---------------------------------------------------------------------------
 # Escribir CSV (CRLF, UTF-8)
 # ---------------------------------------------------------------------------
-with open("soyia-calendario-completo.csv", "w", newline="", encoding="utf-8") as f:
-    w = csv.writer(f, lineterminator="\r\n", quoting=csv.QUOTE_MINIMAL)
-    w.writerow(HEADER_1)
-    w.writerow(HEADER_2)
-    for post_at, row, week, label in schedule:
-        w.writerow(build_csv_row(post_at, row))
+def write_csv(fname, chunk):
+    with open(fname, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f, lineterminator="\r\n", quoting=csv.QUOTE_MINIMAL)
+        w.writerow(HEADER_1)
+        w.writerow(HEADER_2)
+        for post_at, row, week, label in chunk:
+            w.writerow(build_csv_row(post_at, row))
+
+
+# Archivo completo (160 posts) — referencia / respaldo.
+write_csv("soyia-calendario-completo.csv", schedule)
+
+# Social Planner importa máx. 90 posts por archivo → calendario partido en dos.
+# Corte cronológico en 90 (justo el borde de la semana 18: 18 × 5 = 90).
+SPLIT = 90
+write_csv("soyia-calendario-parte-1.csv", schedule[:SPLIT])   # 90 posts
+write_csv("soyia-calendario-parte-2.csv", schedule[SPLIT:])   # 70 posts
 
 # ---------------------------------------------------------------------------
 # Escribir guiones de carruseles (.md)
@@ -834,4 +845,10 @@ for _, r, _, _ in schedule:
     by_cat[r["category"]] = by_cat.get(r["category"], 0) + 1
 for k, v in by_cat.items():
     print(f"  {k}: {v}")
-print("Archivos generados: soyia-calendario-completo.csv, soyia-guiones-carruseles.md, soyia-repo-manifiesto.md")
+print(f"Partido para importación: parte-1 = {len(schedule[:SPLIT])} posts "
+      f"({schedule[0][0]} → {schedule[SPLIT-1][0]}), "
+      f"parte-2 = {len(schedule[SPLIT:])} posts "
+      f"({schedule[SPLIT][0]} → {schedule[-1][0]})")
+print("Archivos generados: soyia-calendario-completo.csv, "
+      "soyia-calendario-parte-1.csv, soyia-calendario-parte-2.csv, "
+      "soyia-guiones-carruseles.md, soyia-repo-manifiesto.md")
