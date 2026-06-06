@@ -645,45 +645,44 @@ def finalize_caption(row):
 START = date(2026, 6, 8)  # lunes
 TIMES = {0: "08:30:00", 1: "11:30:00", 2: "08:30:00", 3: "11:30:00", 4: "12:00:00"}
 
-# Plan de carruseles por viernes (semana -> ('caso'|'complejo', indice 1-based))
-FRIDAY_PLAN = {
-    1: ("caso", 1), 2: ("complejo", 1), 3: ("caso", 2), 4: ("complejo", 2),
-    5: ("caso", 3), 6: ("complejo", 3), 7: ("caso", 4), 8: ("complejo", 4),
-    9: ("caso", 5), 10: ("complejo", 5), 11: ("caso", 6), 12: ("complejo", 6),
-    13: ("caso", 7), 14: ("complejo", 7), 15: ("caso", 8), 16: ("complejo", 8),
-    17: ("caso", 9), 18: ("complejo", 9), 19: ("caso", 10), 20: ("caso", 11),
-    21: ("caso", 12), 22: ("complejo", 10), 23: ("caso", 13), 24: ("caso", 14),
-    25: ("caso", 15), 26: ("caso", 16), 27: ("caso", 17), 28: ("caso", 18),
-    29: ("caso", 19), 30: ("caso", 20), 31: ("caso", 21), 32: ("caso", 22),
-}
-# Banco (placeholder, sin viernes): casos 23..30
-BANCO_CASOS = list(range(23, 31))
+# Opción A · cadencia intacta · 40 semanas · TODAS las fechas reales.
+# Semanas 1-30: Lun Frase / Mar Mito / Mié Dato / Jue Cifra / Vie Carrusel.
+# Semanas 31-40: solo Vie Carrusel (los carruseles restantes).
+TOTAL_WEEKS = 40
+
+# Viernes con carrusel premium (el resto = carrusel de caso). Premium intercalado,
+# no agrupado: fundamentos (sem 2-8), dolor operativo (sem 10-16), diagnóstico (18, 22).
+PREMIUM_WEEKS = [2, 4, 6, 8, 10, 12, 14, 16, 18, 22]
+
+# Asignar los 40 carruseles a los 40 viernes en orden cronológico.
+friday_plan = {}
+caso_i = 0
+for week in range(1, TOTAL_WEEKS + 1):
+    if week in PREMIUM_WEEKS:
+        friday_plan[week] = ("complejo", PREMIUM_WEEKS.index(week) + 1)
+    else:
+        caso_i += 1
+        friday_plan[week] = ("caso", caso_i)
+assert caso_i == 30, f"Se asignaron {caso_i} casos, esperaba 30"
 
 
 def date_for(week, weekday):
-    """week 1-based, weekday 0=Mon..4=Fri. Real solo semanas 1-8."""
-    if week <= 8:
-        d = START + timedelta(days=(week - 1) * 7 + weekday)
-        return f"{d.isoformat()} {TIMES[weekday]}"
-    return PLACEHOLDER
+    """week 1-based, weekday 0=Lun..4=Vie. Todas las fechas son reales."""
+    d = START + timedelta(days=(week - 1) * 7 + weekday)
+    return f"{d.isoformat()} {TIMES[weekday]}"
 
 
-# Ensamblar filas finales en orden de planificación
+# Ensamblar filas en orden cronológico (todas con fecha real).
 schedule = []  # cada item: (postAt, row, week, label)
-
-for week in range(1, 33):
+for week in range(1, TOTAL_WEEKS + 1):
     if week <= 30:
         schedule.append((date_for(week, 0), frase_rows[week - 1], week, f"S{week} Lun · Frase"))
         schedule.append((date_for(week, 1), mito_rows[week - 1], week, f"S{week} Mar · Mito"))
         schedule.append((date_for(week, 2), dato_rows[week - 1], week, f"S{week} Mié · Dato"))
         schedule.append((date_for(week, 3), cifra_rows[week - 1], week, f"S{week} Jue · Cifra"))
-    kind, idx = FRIDAY_PLAN[week]
+    kind, idx = friday_plan[week]
     row = caso_rows[idx - 1] if kind == "caso" else complejo_rows[idx - 1]
     schedule.append((date_for(week, 4), row, week, f"S{week} Vie · {row['kind']}"))
-
-# Banco de carruseles al final (placeholder)
-for idx in BANCO_CASOS:
-    schedule.append((PLACEHOLDER, caso_rows[idx - 1], None, f"Banco · Caso {idx:02d}"))
 
 assert len(schedule) == 160, f"Esperaba 160 filas, hay {len(schedule)}"
 
@@ -828,6 +827,7 @@ with open("soyia-repo-manifiesto.md", "w", encoding="utf-8") as f:
 real = sum(1 for p, r, w, l in schedule if p != PLACEHOLDER)
 placeholder = sum(1 for p, r, w, l in schedule if p == PLACEHOLDER)
 print(f"Filas de contenido: {len(schedule)} (reales: {real}, placeholder: {placeholder})")
+print(f"Primera fecha: {schedule[0][0]}  ·  Última fecha: {schedule[-1][0]}")
 print(f"Imágenes en manifiesto: {total_images}")
 by_cat = {}
 for _, r, _, _ in schedule:

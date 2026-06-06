@@ -33,32 +33,34 @@ Fórmula semanal L–V: **Frase → Mito → Dato → Cifra → Carrusel.**
 
 ---
 
-## Fechas
+## Fechas — calendario completo con fechas reales (opción A)
 
 - **Arranque:** lunes **8 de junio de 2026**, 08:30.
-- **Primeras 8 semanas (40 posts):** fechas reales secuenciales, del **2026-06-08** al **2026-07-31**.
-- **Resto (120 posts):** fecha placeholder **`2050-01-01 00:00:00`** (el mismo patrón del sample para "no programar todavía"). Quedan cargados y se activan cambiando la fecha cuando David lo decida.
+- **Cierre:** viernes **12 de marzo de 2027**, 12:00.
+- **Las 160 publicaciones tienen fecha real.** No hay placeholders ni "banco". Span: **40 semanas**.
+- Orden cronológico estricto en el CSV: cada fila va después de la anterior en el tiempo.
 
 ---
 
-## Decisión sobre el desajuste de carruseles → **opción (c)**
+## Distribución de carruseles → **opción A (cadencia intacta, 40 semanas)**
 
-Hay 40 carruseles (30 de caso + 10 premium) y 32 viernes en 32 semanas: **sobran 8 carruseles**.
-Se eligió la **opción (c)** del brief (la más limpia, respeta la cadencia):
+Hay 40 carruseles (30 de caso + 10 premium) pero solo 30 frases / 30 mitos / 30 datos / 30 cifras.
+El contenido de lunes a jueves se agota en la semana 30, mientras que los carruseles necesitan 40 viernes. Se eligió mantener la cadencia y extender el calendario:
 
-- **32 viernes** cargan un carrusel cada uno (22 de caso + 10 premium, intercalados).
-- Los **8 carruseles de caso restantes** quedan como **"banco"** al final del CSV, con fecha placeholder `2050-01-01`. David los activa cuando quiera, sin romper la cadencia de un carrusel por viernes.
-- Banco = `caso-23` a `caso-30` (verticales: real-estate, peluquería-barbería, odontología, restaurante-delivery, estética, abogados, clínica-salud, real-estate).
+- **Semanas 1–30:** semana completa — Lun Frase / Mar Mito / Mié Dato / Jue Cifra / Vie Carrusel.
+- **Semanas 31–40:** **solo viernes** con los 10 carruseles restantes. Un post por semana en este tramo final.
+- **Una sola publicación por día hábil. Ninguna semana tiene dos carruseles. Sin fines de semana.**
+- Los 30 carruseles de caso van en orden (`caso-01`…`caso-30`) en los viernes no-premium; los 10 premium se intercalan en las semanas 2, 4, 6, 8, 10, 12, 14, 16, 18 y 22.
 
 ### Distribución de los 10 carruseles premium
 
-No se publican todos al inicio. Se intercalan reemplazando un carrusel de caso, según el brief:
+Intercalados (no agrupados), reemplazando el carrusel de caso de ese viernes:
 
-- **Meses 1–2 (semanas 2, 4, 6, 8):** premium 01–04 — fundamentos.
-- **Meses 3–4 (semanas 10, 12, 14, 16):** premium 05–08 — dolor operativo / seguimiento.
-- **Meses 5–6 (semanas 18, 22):** premium 09–10 — diagnóstico / conversión.
+- **Semanas 2, 4, 6, 8:** premium 01–04 — fundamentos.
+- **Semanas 10, 12, 14, 16:** premium 05–08 — dolor operativo / seguimiento.
+- **Semanas 18, 22:** premium 09–10 — diagnóstico / conversión.
 
-> Nota: como el contenido de Frase/Mito/Dato/Cifra es de 30 piezas, esos tipos llenan las semanas 1–30. Las semanas 31–32 solo llevan su carrusel de viernes. Esto no afecta la importación: el orden de las filas es cronológico para las 8 semanas reales y de planificación para el resto (todas con placeholder).
+> Consecuencia de la opción A: las semanas **31–40** (≈ ene–mar 2027) solo llevan el carrusel del viernes, porque las frases/mitos/datos/cifras (30 de cada una) ya se publicaron en las semanas 1–30. Si más adelante quieres densificar ese tramo, basta con escribir más piezas de esos tipos y volver a generar.
 
 ---
 
@@ -161,7 +163,7 @@ Cada caption de Cifra cierra con `[FUENTE: …]`. **David debe validar que cada 
 ## Checklist de calidad (verificado)
 
 - [x] 160 filas de datos + 2 de encabezado = **162 líneas**.
-- [x] 40 posts con fecha real (2026-06-08 → 2026-07-31); 120 con placeholder `2050-01-01 00:00:00`.
+- [x] Las 160 publicaciones con fecha real (2026-06-08 → 2027-03-12); 0 placeholders.
 - [x] Cada tipo cae en su día y respeta la fórmula semanal.
 - [x] Ninguna cifra inventada: todas con `[FUENTE: …]` verificable.
 - [x] Voz SoyIA en cada caption (anti-hype, criterio primero, sin gurú, sin cierre de servicio al cliente).
