@@ -1,470 +1,506 @@
 All Social,All Social,All Social,All Social,All Social,All Social,All Social,All Social,All Social,All Social,All Social,All Social,Facebook,Instagram,LinkedIn,LinkedIn,Google (GBP),Google (GBP),Google (GBP),Google (GBP),Google (GBP),Google (GBP),Google (GBP),Google (GBP),Google (GBP),Google (GBP),YouTube,YouTube,YouTube,TikTok,TikTok,TikTok,TikTok,TikTok,TikTok,TikTok,Community,Community,Pinterest,Pinterest
 postAtSpecificTime (YYYY-MM-DD HH:mm:ss),content,OGmetaUrl (url),imageUrls (comma-separated),gifUrl,videoUrls (comma-separated),thumbnailUrl,mediaOptimization (true/false),applyWatermark (true/false),tags (comma-separated),category,followUpComment,type (post/story/reel),type (post/story/reel),pdfTitle,postAsPdf (true/false),eventType (call_to_action/event/offer),actionType (none/order/book/shop/learn_more/call/sign_up),title,offerTitle,startDate (YYYY-MM-DD HH:mm:ss),endDate (YYYY-MM-DD HH:mm:ss),termsConditions,couponCode,redeemOnlineUrl,actionUrl,title,privacyLevel (private/public/unlisted),type (video/short),privacyLevel (everyone/friends/only_me),promoteOtherBrand (true/false),enableComment (true/false),enableDuet (true/false),enableStitch (true/false),videoDisclosure (true/false),promoteYourBrand (true/false),title,notifyAllGroupMembers (true/false),title,link
-2026-06-08 08:30:00,"La IA no reemplaza tu criterio. Lo expone.
+2026-06-08 08:30:00,"Modelo: Programa entrenado con muchos datos para reconocer patrones, predecir o asistir decisiones.
 
-Si tu proceso es un desorden, automatizarlo solo te da desorden más rápido. El orden va primero. La herramienta, después.
+No necesitas saber cómo vive el modelo por dentro. Necesitas saber qué problema le estás pidiendo resolver.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-01.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-09 11:30:00,"Mito: ""La IA es solo para empresas grandes.""
-
-Falso. La IA no pregunta cuántos empleados tienes. Pregunta si tu proceso está claro. Una pyme ordenada le saca más provecho que una corporación caótica con presupuesto.
-
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-01.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-10 08:30:00,"Muchos negocios no pierden clientes por falta de interés. Los pierden por falta de seguimiento.
-
-El interés del cliente tiene fecha de caducidad. Si nadie responde a tiempo, se enfría solo.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-01.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-11 11:30:00,"88% de las organizaciones ya usa IA regularmente en al menos una función del negocio.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-01.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-09 11:30:00,"88% de las organizaciones ya usa IA regularmente en al menos una función del negocio.
 
 La IA ya no es novedad. La diferencia está en cómo la conectas al negocio.
 
 [FUENTE: McKinsey]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-01.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-12 12:00:00,"La clienta escribió un sábado para reservar. Le contestaron el lunes. Ya tenía cita en otro lado.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-01.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-10 08:30:00,"La IA no vale por parecer inteligente. Vale cuando te ayuda a pensar, decidir y actuar mejor.
+
+En la Biblioteca SoyIA: «Co-Intelligence», de Ethan Mollick. Negocios, tecnología e IA.
+
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-01.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-11 11:30:00,"La clienta escribió un sábado para reservar. Le contestaron el lunes. Ya tenía cita en otro lado.
 
 Una peluquería no pierde clientas por el corte. Las pierde por no responder cuando la clienta quería reservar. Con SoyIA, cada mensaje recibe respuesta y la agenda se llena sola.
 
 #SoyIA #CriterioPrimero #Peluqueria #SalonDeBelleza #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-01-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-01-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-01-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,peluqueria",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-15 08:30:00,"Automatizar el caos solo te da caos más rápido.
+2026-06-15 08:30:00,"Inteligencia artificial: Tecnología que hace tareas antes exclusivas de humanos: entender lenguaje, analizar, reconocer patrones y generar contenido.
 
-La velocidad no arregla un proceso roto. Lo amplifica. Ordena primero, conecta después.
+La IA no es magia. Es capacidad aumentada cuando hay criterio detrás.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-02.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-16 11:30:00,"Mito: ""Mi negocio es demasiado humano para automatizar.""
-
-Lo humano no es contestar lo mismo 40 veces al día. Eso es repetición. Automatiza la repetición y te queda tiempo para lo que sí es humano.
-
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-02.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-17 08:30:00,"Un lead no es una venta. Es una intención con fecha de vencimiento.
-
-Lo que haces en las primeras horas decide si esa intención se convierte o se evapora.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-02.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-18 11:30:00,"Solo cerca de 1/3 de las empresas ha empezado a escalar sus programas de IA a nivel organizacional.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-02.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-16 11:30:00,"Solo cerca de 1/3 de las empresas ha empezado a escalar sus programas de IA a nivel organizacional.
 
 Muchos usan IA. Pocos la convierten en sistema.
 
 [FUENTE: McKinsey]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-02.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-19 12:00:00,"Antes de invertir más en publicidad, revisa estas 5 señales. Si te suenan, el problema no es de leads. Es de seguimiento. Y más leads sobre un proceso roto solo es más fuga, más rápido.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-02.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-17 08:30:00,"La IA no se delega “a la tecnología”. Se lidera, o se sufre.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #VentasConProceso #PymesPanama #NegociosLATAM #IAaplicada #ProcesoPrimero",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-01-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-01-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-01-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-01-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-01-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-01-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-01-slide-7.png",,,,TRUE,FALSE,"soyia,carrusel,premium,seguimiento",Carruseles Premium,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-22 08:30:00,"La herramienta no es la estrategia.
+En la Biblioteca SoyIA: «The AI-Savvy Leader», de David De Cremer. Liderazgo y estrategia de IA.
 
-Comprar IA sin un proceso claro es comprar un volante sin tener carro.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-02.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-18 11:30:00,"Tres citas no llegaron hoy. Nadie las confirmó. Nadie llenó el hueco.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-03.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-23 11:30:00,"Mito: ""Con WhatsApp normal me basta.""
+La silla vacía no avisa. SoyIA confirma cada cita, le recuerda a la clienta y reacomoda los cancelados. El día no se trabaja a medias.
 
-Te basta para conversar. No para no perder conversaciones. Sin seguimiento ni orden, WhatsApp es un buzón donde se pierden ventas.
+#SoyIA #CriterioPrimero #Peluqueria #SalonDeBelleza #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-02-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-02-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-02-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,peluqueria",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-22 08:30:00,"Prompt: La instrucción que le das a una IA; puede ser una pregunta simple o una guía con tono, contexto y objetivo.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-03.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-24 08:30:00,"La mayoría de las ventas no se pierden en el “no”. Se pierden en el silencio.
+La IA responde mejor cuando tú piensas mejor lo que le pides.
 
-Nadie dijo que no. Simplemente nadie volvió a escribir.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-03.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-25 11:30:00,"62% de las organizaciones ya experimenta con agentes de IA: 23% los escala y 39% explora.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-03.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-23 11:30:00,"62% de las organizaciones ya experimenta con agentes de IA: 23% los escala y 39% explora.
 
 Los agentes ya entraron al juego. El reto es que no jueguen solos.
 
 [FUENTE: McKinsey]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-03.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-26 12:00:00,"Tres citas no llegaron hoy. Nadie las confirmó. Nadie llenó el hueco.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-03.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-24 08:30:00,"Las empresas que ganan no tienen más IA. Tienen mejor operación debajo.
 
-La silla vacía no avisa. SoyIA confirma cada cita, le recuerda a la clienta y reacomoda los cancelados. El día no se trabaja a medias.
+En la Biblioteca SoyIA: «Competing in the Age of AI», de Marco Iansiti y Karim R. Lakhani. Estrategia y operación digital.
 
-#SoyIA #CriterioPrimero #Peluqueria #SalonDeBelleza #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-02-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-02-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-02-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,peluqueria",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-29 08:30:00,"Criterio primero. Automatización después.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-03.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-25 11:30:00,"Un interesado preguntó por un apartamento a las 11 p.m. Le respondieron dos días después. Ya estaba viendo otros tres.
 
-Ese es el orden. No al revés. La tecnología amplifica lo que ya existe: orden o desorden.
+En bienes raíces, el primero que responde con claridad lleva ventaja. SoyIA contesta al instante, califica al interesado y te avisa cuándo vale tu tiempo.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-04.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-06-30 11:30:00,"Mito: ""El CRM es solo para vendedores.""
+#SoyIA #CriterioPrimero #RealEstate #BienesRaices #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-03-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-03-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-03-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,real-estate",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-26 12:00:00,"Le pusiste IA a tu negocio. Y todo sigue igual de roto.
 
-El CRM es la memoria del negocio. Si solo vive en la cabeza de tu gente, se va cuando ellos se van.
+La IA amplifica lo que ya existe: orden o caos. Sin proceso debajo, automatizas el desorden y lo haces más rápido.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-04.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-01 08:30:00,"Un CRM no es una base de datos de contactos. Es la memoria de cada conversación.
+Carrusel. Deslízalo.
 
-Sin esa memoria, cada interacción empieza de cero y el cliente lo siente.
+#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-01-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-01-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-01-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-01-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-01-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-01-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-01-slide-7.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-01-slide-8.png",,,,TRUE,FALSE,"soyia,carrusel,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-29 08:30:00,"Contexto: Toda la información que ayuda a una IA a entender qué pasa: quién eres, qué negocio tienes, qué quieres lograr y bajo qué reglas responder.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-04.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-02 11:30:00,"No más del 10% de las empresas está escalando agentes de IA en funciones específicas.
+Sin contexto, la IA adivina. Con contexto, empieza a trabajar.
+
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-04.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-06-30 11:30:00,"No más del 10% de las empresas está escalando agentes de IA en funciones específicas.
 
 Mucho discurso de agentes. Todavía poca implementación seria.
 
 [FUENTE: McKinsey]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-04.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-03 12:00:00,"WhatsApp es donde el cliente quiere hablar. Pero tener WhatsApp no es tener una estrategia. La diferencia entre un canal y un sistema decide cuántas ventas se te escapan cada semana.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-04.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-01 08:30:00,"Integrar IA no es comprar herramientas sueltas. Es rediseñar cómo trabaja la empresa.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #VentasConProceso #PymesPanama #NegociosLATAM #IAaplicada #ProcesoPrimero",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-02-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-02-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-02-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-02-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-02-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-02-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-02-slide-7.png",,,,TRUE,FALSE,"soyia,carrusel,premium,whatsapp",Carruseles Premium,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-06 08:30:00,"Una pyme ordenada le gana a una corporación caótica.
+En la Biblioteca SoyIA: «All-In on AI», de Thomas H. Davenport y Nitin Mittal. IA en estrategia y cultura.
 
-La IA no premia el tamaño. Premia la claridad del proceso.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-04.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-02 11:30:00,"Tienes 400 contactos en el teléfono. No sabes a cuántos seguiste este mes.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-05.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-07 11:30:00,"Mito: ""Automatizar es sonar frío y robótico.""
+La base de datos dormida es la venta que ya pagaste y no cobraste. SoyIA retoma cada contacto en el momento correcto, sin que tengas que acordarte de nadie.
 
-Lo frío es no responder. Una respuesta a tiempo, con contexto, se siente más humana que un silencio de tres días.
+#SoyIA #CriterioPrimero #RealEstate #BienesRaices #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-04-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-04-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-04-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,real-estate",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-06 08:30:00,"LLM: Large Language Model: modelo entrenado con enormes cantidades de texto para entender y generar lenguaje; la base de asistentes como ChatGPT, Claude o Gemini.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-05.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-08 08:30:00,"Automatizar un proceso empieza por poder explicarlo en una hoja.
+Un LLM no es un oráculo. Es una herramienta poderosa que necesita dirección.
 
-Si no cabe en un diagrama simple, todavía no es un proceso. Es una costumbre.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-05.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-09 11:30:00,"Más de 2/3 de las empresas usa IA en más de una función — y la mitad, en tres o más.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-05.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-07 11:30:00,"Más de 2/3 de las empresas usa IA en más de una función — y la mitad, en tres o más.
 
 La IA deja de ser herramienta cuando empieza a conectar áreas.
 
 [FUENTE: McKinsey]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-05.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-10 12:00:00,"Un interesado preguntó por un apartamento a las 11 p.m. Le respondieron dos días después. Ya estaba viendo otros tres.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-05.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-08 08:30:00,"La ventaja no está en tener IA. Está en llevarla al proceso donde sí genera valor.
 
-En bienes raíces, el primero que responde con claridad lleva ventaja. SoyIA contesta al instante, califica al interesado y te avisa cuándo vale tu tiempo.
+En la Biblioteca SoyIA: «The AI Advantage», de Thomas H. Davenport. IA aplicada al negocio.
 
-#SoyIA #CriterioPrimero #RealEstate #BienesRaices #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-03-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-03-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-03-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,real-estate",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-13 08:30:00,"Si no sabes por qué pierdes clientes, ninguna IA te lo va a adivinar.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-05.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-09 11:30:00,"Pasaste el sábado mostrando una propiedad a alguien que no tenía cómo comprarla.
 
-Primero el diagnóstico. Después la solución. Nunca al revés.
+Tu tiempo es el inventario más caro que tienes. SoyIA califica al interesado antes de la visita: presupuesto, plazo, intención. Vas a las que cierran.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-06.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-14 11:30:00,"Mito: ""La IA va a reemplazar a mi equipo.""
+#SoyIA #CriterioPrimero #RealEstate #BienesRaices #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-05-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-05-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-05-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,real-estate",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-13 08:30:00,"Token: La unidad mínima con la que un modelo procesa texto: una palabra, parte de una palabra o un signo.
 
-La IA no reemplaza a quien piensa. Reemplaza la tarea que no debería estar consumiendo a quien piensa.
+Para la IA, el lenguaje también tiene costo, peso y límite. Por eso el contexto importa.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-06.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-15 08:30:00,"La diferencia entre un dato y una decisión es el contexto.
-
-Un número suelto no dice nada. El mismo número, en contexto, cambia lo que haces mañana.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-06.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-16 11:30:00,"Solo 39% reporta impacto de la IA en el EBIT a nivel empresa, y la mayoría lo cifra por debajo del 5%.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-06.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-14 11:30:00,"Solo 39% reporta impacto de la IA en el EBIT a nivel empresa, y la mayoría lo cifra por debajo del 5%.
 
 La IA sin proceso puede impresionar, pero no necesariamente mueve el negocio.
 
 [FUENTE: McKinsey]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-06.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-17 12:00:00,"No automatices todo de golpe. Empieza por lo que más fricción te quita y más venta te devuelve. Este es el orden que tiene sentido cuando recién arrancas.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-06.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-15 08:30:00,"La IA no reemplaza empleos. Reorganiza tareas. La diferencia importa.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #VentasConProceso #PymesPanama #NegociosLATAM #IAaplicada #ProcesoPrimero",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-03-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-03-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-03-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-03-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-03-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-03-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-03-slide-7.png",,,,TRUE,FALSE,"soyia,carrusel,premium,automatizacion",Carruseles Premium,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-20 08:30:00,"La IA no piensa por ti. Piensa contigo.
+En la Biblioteca SoyIA: «Working with AI», de Thomas H. Davenport y Steven M. Miller. Colaboración humano-máquina.
 
-La diferencia entre pedirle cosas y pensar con ella es la diferencia entre una herramienta y una ventaja.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-06.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-16 11:30:00,"El paciente terminó el tratamiento y nunca volvió al control. Nadie le recordó.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-07.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-21 11:30:00,"Mito: ""Primero necesito tener todo perfecto para empezar.""
+En odontología, el seguimiento es salud y es facturación. SoyIA recuerda cada control, reactiva pacientes y mantiene la agenda llena sin perseguir a nadie a mano.
 
-Perfecto no llega nunca. Necesitas un proceso claro, no perfecto. Empieza por ordenar uno, no por esperar a los diez.
+#SoyIA #CriterioPrimero #Odontologia #Dentista #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-06-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-06-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-06-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,odontologia",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-17 12:00:00,"La IA no vino a reemplazar a tu equipo. Vino a devolverle el tiempo.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-07.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-22 08:30:00,"Un agente de IA no es un chatbot con otro nombre.
+Saca a tu gente de la tarea repetitiva y déjala donde se necesita criterio. Eso no es reemplazar. Es liberar.
 
-El chatbot responde. El agente ejecuta tareas, sigue reglas y actúa con el contexto de tu negocio.
+Carrusel. Deslízalo.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-07.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-23 11:30:00,"51% de las organizaciones que usa IA ya vio al menos una consecuencia negativa; casi un tercio, por inexactitud.
+#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-02-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-02-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-02-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-02-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-02-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-02-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-02-slide-7.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-02-slide-8.png",,,,TRUE,FALSE,"soyia,carrusel,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-20 08:30:00,"Dataset: Conjunto de datos usado para entrenar, evaluar o alimentar un sistema de IA.
+
+La IA aprende de datos. Si los datos son basura, el resultado viene con perfume, pero sigue siendo basura.
+
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-07.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-21 11:30:00,"51% de las organizaciones que usa IA ya vio al menos una consecuencia negativa; casi un tercio, por inexactitud.
 
 La IA sin criterio no es ventaja. Es riesgo con buena interfaz.
 
 [FUENTE: McKinsey]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-07.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-24 12:00:00,"Tienes 400 contactos en el teléfono. No sabes a cuántos seguiste este mes.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-07.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-22 08:30:00,"No se trata de poner IA encima. Se trata de rediseñar el proceso debajo.
 
-La base de datos dormida es la venta que ya pagaste y no cobraste. SoyIA retoma cada contacto en el momento correcto, sin que tengas que acordarte de nadie.
+En la Biblioteca SoyIA: «Human + Machine», de Paul R. Daugherty y H. James Wilson. Rediseño del trabajo con IA.
 
-#SoyIA #CriterioPrimero #RealEstate #BienesRaices #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-04-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-04-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-04-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,real-estate",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-27 08:30:00,"El problema rara vez es de ventas. Casi siempre es de proceso.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-07.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-23 11:30:00,"Cotizaste un tratamiento. El paciente dijo ""lo pienso"". Nadie volvió a escribir.
 
-Más leads sobre un proceso roto no es crecimiento. Es más fuga.
+La mayoría de los tratamientos no se rechazan. Se quedan esperando un seguimiento que nunca llega. SoyIA retoma cada cotización en el momento justo, sin sonar a presión.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-08.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-28 11:30:00,"Mito: ""La IA es carísima.""
+#SoyIA #CriterioPrimero #Odontologia #Dentista #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-07-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-07-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-07-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,odontologia",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-27 08:30:00,"Entrenamiento: Proceso en el que un modelo aprende patrones a partir de muchos datos.
 
-Cara es la venta que se pierde por no responder a tiempo. La IA mal elegida cuesta. El cliente que se fue, también.
+Entrenar una IA no es enseñarle valores. Es enseñarle patrones. Ahí empieza la responsabilidad humana.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-08.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-29 08:30:00,"El primer mensaje no vende. Abre la puerta. La venta vive en el seguimiento.
-
-Casi nadie compra en el primer contacto. Casi todos compran a quien siguió ahí.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-08.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-30 11:30:00,"Solo 5% de las empresas es considerada “future-built” en IA; 35% la escala y 60% casi no captura valor.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-08.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-28 11:30:00,"Solo 5% de las empresas es considerada “future-built” en IA; 35% la escala y 60% casi no captura valor.
 
 El problema no es tener IA. Es saber convertirla en capacidad operativa.
 
 [FUENTE: BCG]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-08.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-07-31 12:00:00,"Tres palabras que se usan como sinónimos y no lo son. Entender qué hace cada una evita comprar la herramienta equivocada para el problema que tienes.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-08.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-29 08:30:00,"La IA baja el costo de predecir. El criterio decide dónde eso vale la pena.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #VentasConProceso #PymesPanama #NegociosLATAM #IAaplicada #ProcesoPrimero",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-04-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-04-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-04-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-04-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-04-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-04-slide-6.png",,,,TRUE,FALSE,"soyia,carrusel,premium,conceptos",Carruseles Premium,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-03 08:30:00,"Automatizar no es sonar frío. Es responder a tiempo.
+En la Biblioteca SoyIA: «Prediction Machines», de Ajay Agrawal, Joshua Gans y Avi Goldfarb. La economía de la IA.
 
-El cliente no se queja de que un sistema le conteste. Se queja de que nadie le conteste.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-08.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-30 11:30:00,"Las promociones las mandas a todos por igual. Llegan a quien ya compró y a quien nunca preguntó.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-09.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-04 11:30:00,"Mito: ""Esto es muy técnico para mi negocio.""
+Hablarle a todos por igual es la forma más cara de no hablarle a nadie. SoyIA segmenta por interés e historial y manda la oferta correcta a la persona correcta.
 
-No necesitas programar. Necesitas saber qué proceso quieres ordenar. Lo técnico es problema de la herramienta, no tuyo.
+#SoyIA #CriterioPrimero #Estetica #MedicinaEstetica #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-08-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-08-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-08-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,estetica",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-03 08:30:00,"Inferencia: El momento en que la IA usa lo aprendido para responder, generar o sugerir una acción.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-09.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-05 08:30:00,"“Tener los datos” no sirve de nada si están en cinco lugares distintos.
+La inferencia es donde la IA deja de “aprender” y empieza a actuar. Conviene saber qué le estás pidiendo.
 
-La información dispersa no es información. Es trabajo pendiente disfrazado.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-09.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-06 11:30:00,"5× más de incremento de ingresos logran las empresas “future-built” — y 3× más reducción de costos.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-09.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-04 11:30:00,"5× más de incremento de ingresos logran las empresas “future-built” — y 3× más reducción de costos.
 
 La ventaja no está en el prompt. Está en el modelo operativo.
 
 [FUENTE: BCG]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-09.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-07 12:00:00,"Pasaste el sábado mostrando una propiedad a alguien que no tenía cómo comprarla.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-09.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-05 08:30:00,"Usar IA en tareas impresiona. Rediseñar tus decisiones es lo que cambia el negocio.
 
-Tu tiempo es el inventario más caro que tienes. SoyIA califica al interesado antes de la visita: presupuesto, plazo, intención. Vas a las que cierran.
+En la Biblioteca SoyIA: «Power and Prediction», de Ajay Agrawal, Joshua Gans y Avi Goldfarb. La economía disruptiva de la IA.
 
-#SoyIA #CriterioPrimero #RealEstate #BienesRaices #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-05-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-05-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-05-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,real-estate",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-10 08:30:00,"No necesitas más herramientas. Necesitas menos fricción.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-09.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-06 11:30:00,"El cliente preguntó por reservas en Instagram un viernes. Respondiste el lunes, sin mesa y sin cliente.
 
-Cada app nueva sin criterio es un problema nuevo con interfaz bonita.
+El viernes a la noche no espera al lunes. SoyIA responde reservas y pedidos al instante, en el canal donde el cliente ya está escribiendo.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-10.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-11 11:30:00,"Mito: ""La IA aprende sola y se configura sola.""
+#SoyIA #CriterioPrimero #Restaurantes #Gastronomia #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-09-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-09-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-09-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,restaurante",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-07 12:00:00,"Cuatro herramientas de IA. Y sigues sin saber qué pasó con ese lead.
 
-La IA no adivina tu negocio. Aprende del contexto que tú le das. Sin contexto, inventa con seguridad.
+No necesitas más apps. Necesitas un proceso que conecte lo que ya tienes. La herramienta no es la estrategia.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-10.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-12 08:30:00,"Calificar un lead es decidir a quién le dedicas tiempo, no perseguir a todos.
+Carrusel. Deslízalo.
 
-Tratar a todos igual es la forma más cara de no priorizar a nadie.
+#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-03-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-03-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-03-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-03-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-03-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-03-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-03-slide-7.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-03-slide-8.png",,,,TRUE,FALSE,"soyia,carrusel,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-10 08:30:00,"Multimodal: Que una IA puede trabajar con varios tipos de información a la vez: texto, imagen, audio, video o datos.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-10.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-13 11:30:00,"Hacia 2028, 29% del valor total de IA representarán los agentes; hoy ya rondan el 17%.
+La próxima IA no solo leerá lo que dices. También entenderá lo que muestras, envías y haces.
+
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-10.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-11 11:30:00,"Hacia 2028, 29% del valor total de IA representarán los agentes; hoy ya rondan el 17%.
 
 Los agentes no son moda: son una nueva capa de operación.
 
 [FUENTE: BCG]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-10.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-14 12:00:00,"No son errores ruidosos. Son fugas silenciosas: nadie las ve, pero cada semana se llevan ventas. Revisa cuáles tienes abiertas.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-10.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-12 08:30:00,"Antes de construir IA, hay que construir el dato que la alimenta.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #VentasConProceso #PymesPanama #NegociosLATAM #IAaplicada #ProcesoPrimero",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-05-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-05-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-05-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-05-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-05-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-05-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-05-slide-7.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-05-slide-8.png",,,,TRUE,FALSE,"soyia,carrusel,premium,conversion",Carruseles Premium,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-17 08:30:00,"La IA con contexto resuelve. Sin contexto, solo acelera el caos.
+En la Biblioteca SoyIA: «The AI-First Company», de Ash Fontana. Empresas construidas desde los datos.
 
-Darle datos sucios a un modelo es pedirle que se equivoque más rápido.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-10.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-13 11:30:00,"El socio dejó de venir hace tres semanas. Su mensualidad vence pronto. Nadie lo notó.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-11.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-18 11:30:00,"Mito: ""Más automatización siempre es mejor.""
+La retención no es suerte: es seguimiento. SoyIA detecta al socio que se está enfriando y lo reactiva antes de que cancele.
 
-Automatizar un proceso malo lo vuelve un problema rápido y constante. Primero arregla. Después acelera.
+#SoyIA #CriterioPrimero #Gimnasios #Fitness #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-10-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-10-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-10-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,gimnasio",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-17 08:30:00,"Agente de IA: IA diseñada para hacer más que responder: conversa, consulta información, sigue instrucciones y ejecuta tareas dentro de un proceso.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-11.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-19 08:30:00,"Un proceso que solo funciona cuando una persona específica está, no es un proceso.
+Un agente sin proceso es un empleado nuevo sin entrenamiento. Simpático, pero peligroso.
 
-Es una dependencia. Y las dependencias se enferman, renuncian y se van de vacaciones.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-11.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-20 11:30:00,"+50% creció el acceso de los trabajadores a la IA durante 2025.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-11.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-18 11:30:00,"+50% creció el acceso de los trabajadores a la IA durante 2025.
 
 La adopción sube más rápido que la madurez de muchas empresas.
 
 [FUENTE: Deloitte]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-11.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-21 12:00:00,"El paciente terminó el tratamiento y nunca volvió al control. Nadie le recordó.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-11.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-19 08:30:00,"La IA no ordena tu desorden. Lo amplifica. El orden es trabajo previo.
 
-En odontología, el seguimiento es salud y es facturación. SoyIA recuerda cada control, reactiva pacientes y mantiene la agenda llena sin perseguir a nadie a mano.
+En la Biblioteca SoyIA: «The AI-Powered Enterprise», de Seth Earley. Conocimiento estructurado y ontología.
 
-#SoyIA #CriterioPrimero #Odontologia #Dentista #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-06-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-06-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-06-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,odontologia",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-24 08:30:00,"Lo que no puedes explicar, no lo puedes automatizar.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-11.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-20 11:30:00,"La vacuna del paciente venció hace dos meses. El dueño no se acordó. La clínica tampoco avisó.
 
-Si tu proceso solo vive en la cabeza de una persona, no tienes proceso. Tienes suerte.
+En una veterinaria, el recordatorio es cuidado y es ingreso recurrente. SoyIA avisa cada vacuna, control y desparasitación en su fecha.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-12.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-25 11:30:00,"Mito: ""Si contesto rápido parezco desesperado.""
+#SoyIA #CriterioPrimero #Veterinaria #Mascotas #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-11-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-11-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-11-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,veterinaria",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-24 08:30:00,"Automatización: Usar tecnología para que tareas repetitivas ocurran sin depender del tiempo de una persona: seguimientos, alertas, registros o respuestas.
 
-Contestar rápido no es desesperación. Es respeto por el tiempo del cliente. El que tarda tres días no se ve interesante. Se ve ausente.
+Automatizar no es agotar humanidad. Es dejar de desperdiciarla en tareas que una máquina puede hacer mejor.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-12.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-26 08:30:00,"La IA generativa produce texto. La automatización conecta acciones. No son lo mismo.
-
-Una redacta. La otra hace que las cosas pasen sin que tengas que recordarlas.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-12.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-27 11:30:00,"Solo 34% de las empresas está realmente reimaginando el negocio con IA.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-12.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-25 11:30:00,"Solo 34% de las empresas está realmente reimaginando el negocio con IA.
 
 Automatizar lo mismo de siempre no es transformación. Es maquillar el desorden.
 
 [FUENTE: Deloitte]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-12.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-28 12:00:00,"Cuando las ventas bajan, el instinto dice “contrata más vendedores” o “invierte más en anuncios”. A veces el problema no está ahí. Está en el proceso que nadie revisó.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-12.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-26 08:30:00,"Añadir IA aislada no transforma nada. La operación se rediseña alrededor del contexto.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #VentasConProceso #PymesPanama #NegociosLATAM #IAaplicada #ProcesoPrimero",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-06-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-06-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-06-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-06-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-06-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-06-slide-6.png",,,,TRUE,FALSE,"soyia,carrusel,premium,proceso",Carruseles Premium,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-08-31 08:30:00,"Responder rápido no es opcional. Es la venta.
+En la Biblioteca SoyIA: «The AI-Centered Enterprise», de Ram Bala, Natarajan Balasubramanian y Amit Joshi. Organizaciones rediseñadas con IA.
 
-El cliente que escribe hoy no espera hasta mañana. Le escribe a otro.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-12.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-27 11:30:00,"Un cliente potencial escribió por un caso. Estabas en audiencia. Cuando viste el mensaje, ya tenía abogado.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-13.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-01 11:30:00,"Mito: ""La IA solo sirve para redactar textos.""
+En servicios legales, la primera respuesta pesa. SoyIA atiende la consulta inicial, agenda la cita y no deja que un caso se vaya por estar ocupado.
 
-Eso es el 5%. El resto es ordenar seguimiento, calificar leads, recordar tareas y darte contexto para decidir.
+#SoyIA #CriterioPrimero #Abogados #ServiciosLegales #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-12-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-12-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-12-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,abogados",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-28 12:00:00,"La IA no es un lujo de empresas grandes. Es cosa de orden.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-13.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-02 08:30:00,"El tiempo de respuesta no es un detalle de servicio. Es una variable de conversión.
+La IA no pregunta cuántos empleados tienes. Pregunta si tu proceso está claro. Una pyme ordenada le saca más provecho que una corporación caótica.
 
-Mientras más tardas, menos vale el lead. La curva baja rápido.
+Carrusel. Deslízalo.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-13.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-03 11:30:00,"Solo 1 de cada 5 empresas tiene un modelo maduro de gobernanza para agentes autónomos.
+#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-04-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-04-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-04-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-04-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-04-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-04-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-04-slide-7.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-04-slide-8.png",,,,TRUE,FALSE,"soyia,carrusel,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-08-31 08:30:00,"Workflow: Camino ordenado que sigue una tarea de principio a fin: pasos, responsables, condiciones y resultados esperados.
+
+Si tu proceso vive solo en la cabeza de alguien, todavía no tienes proceso. Tienes fe.
+
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-13.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-01 11:30:00,"Solo 1 de cada 5 empresas tiene un modelo maduro de gobernanza para agentes autónomos.
 
 Antes de soltar agentes, hay que definir límites, contexto y responsabilidad.
 
 [FUENTE: Deloitte]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-13.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-04 12:00:00,"Cotizaste un tratamiento. El paciente dijo ""lo pienso"". Nadie volvió a escribir.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-13.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-02 08:30:00,"Los casos de uso inspiran. El criterio decide cuáles son tuyos.
 
-La mayoría de los tratamientos no se rechazan. Se quedan esperando un seguimiento que nunca llega. SoyIA retoma cada cotización en el momento justo, sin sonar a presión.
+En la Biblioteca SoyIA: «Generative AI in Practice», de Bernard Marr. Casos de uso de IA generativa.
 
-#SoyIA #CriterioPrimero #Odontologia #Dentista #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-07-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-07-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-07-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,odontologia",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-07 08:30:00,"La IA no es magia. Es disciplina con esteroides.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-13.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-03 11:30:00,"Cada cierre de mes persigues a los clientes por los mismos documentos. Por correo, por WhatsApp, por teléfono.
 
-Hace bien lo que ya hacías bien. Y peor lo que hacías mal.
+La parte cara de la contabilidad no son los números. Es el ir y venir por papeles. SoyIA recuerda, recolecta y ordena lo que cada cliente debe entregar.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-14.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-08 11:30:00,"Mito: ""Mi industria es muy especial para esto.""
+#SoyIA #CriterioPrimero #Contadores #Contabilidad #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-13-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-13-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-13-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,contadores",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-07 08:30:00,"CRM: Sistema donde se ordenan contactos, oportunidades, conversaciones, seguimientos y ventas; bien usado, es la memoria comercial de la empresa.
 
-Toda industria cree que es la excepción. Ninguna lo es cuando hablamos de responder a tiempo y no perder al cliente.
+Un CRM no sirve por tener contactos guardados. Sirve cuando evita que las oportunidades se pierdan.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-14.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-09 08:30:00,"Lo que parece un problema de marketing muchas veces es un problema de seguimiento.
-
-No faltan leads. Falta qué pasa con los leads que ya llegaron.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-14.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-10 11:30:00,"42% de las empresas cree que su estrategia está lista para IA — pero menos en infraestructura, datos, riesgo y talento.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-14.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-08 11:30:00,"42% de las empresas cree que su estrategia está lista para IA — pero menos en infraestructura, datos, riesgo y talento.
 
 La estrategia suena bien hasta que toca conectarla con la operación.
 
 [FUENTE: Deloitte]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-14.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-11 12:00:00,"La IA amplifica lo que ya existe. Si lo que existe es orden, acelera resultados. Si es caos, acelera el caos. El contexto es lo que marca la diferencia.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-14.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-09 08:30:00,"Entender la herramienta es el primer paso. Saber dónde aplicarla, el que cuenta.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #VentasConProceso #PymesPanama #NegociosLATAM #IAaplicada #ProcesoPrimero",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-07-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-07-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-07-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-07-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-07-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-07-slide-6.png",,,,TRUE,FALSE,"soyia,carrusel,premium,criterio",Carruseles Premium,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-14 08:30:00,"El seguimiento cierra más que el descuento.
+En la Biblioteca SoyIA: «Generative AI», de Tom Taulli. Guía de IA generativa para tu negocio.
 
-La mayoría de las ventas se pierden en el silencio después del primer mensaje.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-14.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-10 11:30:00,"El paciente pidió cita por teléfono, esperó en línea y colgó. No volvió a llamar.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-15.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-15 11:30:00,"Mito: ""Implementar IA toma meses y paraliza todo.""
+Cada llamada sin contestar es un paciente que se atiende en otro lado. SoyIA agenda citas las 24 horas, por el canal que el paciente prefiera, sin dejarlo en espera.
 
-No tienes que cambiarlo todo de golpe. Ordena un proceso, automatiza ese, mide. Después el siguiente.
+#SoyIA #CriterioPrimero #ClinicaMedica #Salud #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-14-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-14-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-14-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,clinica-medica",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-14 08:30:00,"Pipeline: Vista del recorrido comercial: desde que alguien muestra interés hasta que compra, se enfría o necesita seguimiento.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-15.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-16 08:30:00,"Un “prompt” no es un truco mágico. Es una instrucción clara.
+El pipeline te muestra la verdad incómoda: dónde se está fugando el negocio.
 
-La IA responde a la claridad. La misma regla que tu equipo.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-15.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-17 11:30:00,"82% de los líderes ve este año como clave para repensar estrategia y operaciones; 81% integrará agentes en 12–18 meses.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-15.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-15 11:30:00,"82% de los líderes ve este año como clave para repensar estrategia y operaciones; 81% integrará agentes en 12–18 meses.
 
 El momento no es “probar IA”. Es rediseñar cómo trabaja la empresa.
 
 [FUENTE: Microsoft Work Trend Index]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-15.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-18 12:00:00,"Las promociones las mandas a todos por igual. Llegan a quien ya compró y a quien nunca preguntó.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-15.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-16 08:30:00,"No necesitas programar IA. Necesitas saber qué pedirle y a quién.
 
-Hablarle a todos por igual es la forma más cara de no hablarle a nadie. SoyIA segmenta por interés e historial y manda la oferta correcta a la persona correcta.
+En la Biblioteca SoyIA: «HBR Guide to AI Basics for Managers», de Harvard Business Review. Manual de IA para managers.
 
-#SoyIA #CriterioPrimero #Estetica #MedicinaEstetica #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-08-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-08-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-08-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,estetica",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-21 08:30:00,"Tu CRM no es una agenda de contactos. Es tu memoria comercial.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-15.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-17 11:30:00,"La póliza del cliente vence en dos semanas. Nadie lo contactó. Renovó con otro corredor.
 
-Sin memoria, cada conversación empieza de cero. Y el cliente lo nota.
+En seguros, la renovación es la relación. SoyIA avisa cada vencimiento a tiempo y mantiene el contacto vivo entre pólizas.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-16.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-22 11:30:00,"Mito: ""La IA comete errores, mejor no la uso.""
+#SoyIA #CriterioPrimero #Seguros #Corredores #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-15-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-15-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-15-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,seguros",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-18 12:00:00,"La IA no es objetiva. Aprendió de tus datos.
 
-Tu proceso manual también comete errores: el lead olvidado, el seguimiento que no pasó. La pregunta no es si hay error. Es cuál te cuesta más.
+Si los datos vienen sesgados o sucios, la IA repite el sesgo con seguridad. La objetividad no viene en el modelo: viene del criterio con que lo alimentas.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-16.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-23 08:30:00,"La integración no arregla el desorden. Lo conecta.
+Carrusel. Deslízalo.
 
-Unir dos procesos malos te da un proceso malo más grande y más rápido.
+#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-05-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-05-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-05-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-05-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-05-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-05-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-05-slide-7.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-05-slide-8.png",,,,TRUE,FALSE,"soyia,carrusel,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-21 08:30:00,"Lead: Persona o empresa que mostró interés en lo que ofreces; puede venir de una campaña, una web, WhatsApp o una recomendación.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-16.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-24 11:30:00,"80% de la fuerza laboral dice no tener tiempo ni energía para su trabajo, mientras 53% de líderes exige más productividad.
+Un lead no es una venta. Es una conversación que puedes cuidar o desperdiciar.
+
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-16.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-22 11:30:00,"80% de la fuerza laboral dice no tener tiempo ni energía para su trabajo, mientras 53% de líderes exige más productividad.
 
 El cuello de botella no es la gente. Es el sistema donde trabaja la gente.
 
 [FUENTE: Microsoft Work Trend Index]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-16.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-25 12:00:00,"La improvisación constante no es agilidad. Es ausencia de sistema. Así se ve la diferencia entre operar al día y operar con proceso.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-16.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-23 08:30:00,"Antes de prometer IA seria, hace falta pensar con datos en serio.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #VentasConProceso #PymesPanama #NegociosLATAM #IAaplicada #ProcesoPrimero",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-08-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-08-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-08-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-08-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-08-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-08-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-08-slide-7.png",,,,TRUE,FALSE,"soyia,carrusel,premium,proceso",Carruseles Premium,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-28 08:30:00,"Más rápido no siempre es mejor. Claro siempre lo es.
+En la Biblioteca SoyIA: «Data Science for Business», de Foster Provost y Tom Fawcett. Pensamiento analítico para negocio.
 
-La velocidad sin claridad solo te lleva al error antes.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-16.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-24 11:30:00,"El carro salió del taller hace seis meses. Tocaba mantenimiento. Nadie le escribió al cliente.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-17.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-29 11:30:00,"Mito: ""Los chatbots espantan a los clientes.""
+El mantenimiento recurrente es el ingreso más predecible de un taller, si alguien lo sigue. SoyIA recuerda cada servicio en su fecha.
 
-Lo que espanta es un bot sin criterio que no entiende nada. Uno con contexto, que resuelve o pasa al humano a tiempo, retiene.
+#SoyIA #CriterioPrimero #TallerMecanico #Automotriz #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-16-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-16-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-16-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,taller-mecanico",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-28 08:30:00,"Lead scoring: Forma de asignar prioridad a los prospectos según señales como interés, perfil, urgencia o presupuesto.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-17.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-09-30 08:30:00,"El dato más caro es el cliente que ya pagó y nadie volvió a contactar.
+No todos los leads merecen la misma energía. El criterio también se automatiza.
 
-Conseguir uno nuevo cuesta mucho más que cuidar al que ya confió.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-17.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-10-01 11:30:00,"275 interrupciones al día recibe cada empleado: una cada 2 minutos durante la jornada.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-17.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-29 11:30:00,"275 interrupciones al día recibe cada empleado: una cada 2 minutos durante la jornada.
 
 No necesitas más apps. Necesitas menos fricción.
 
 [FUENTE: Microsoft Work Trend Index]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-17.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-10-02 12:00:00,"El cliente preguntó por reservas en Instagram un viernes. Respondiste el lunes, sin mesa y sin cliente.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-17.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-09-30 08:30:00,"Decidir con datos no es una moda nueva. Es la base que muchos todavía se saltan.
 
-El viernes a la noche no espera al lunes. SoyIA responde reservas y pedidos al instante, en el canal donde el cliente ya está escribiendo.
+En la Biblioteca SoyIA: «Competing on Analytics», de Thomas H. Davenport y Jeanne G. Harris. Cultura analítica y decisiones con datos.
 
-#SoyIA #CriterioPrimero #Restaurantes #Gastronomia #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-09-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-09-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-09-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,restaurante",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-10-05 08:30:00,"La IA buena es la que no se nota.
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-17.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-01 11:30:00,"El carrito quedó lleno y abandonado. Nadie volvió a escribirle a ese cliente.
 
-Cuando el proceso fluye, nadie aplaude la herramienta. Solo funciona.
+La venta de e-commerce no termina en el carrito. Vive en el seguimiento. SoyIA recupera carritos abandonados y responde dudas antes de que el cliente cierre la pestaña.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #IAaplicada #AutomatizacionSinHumo #PymesPanama #NegociosLATAM #ProcesoPrimero #MenosFriccion",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/frase-18.png,,,,TRUE,FALSE,"soyia,frase",Frases ADN,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-10-06 11:30:00,"Mito: ""Tengo poco volumen, no me hace falta.""
+#SoyIA #CriterioPrimero #Ecommerce #TiendaOnline #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-17-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-17-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-17-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,e-commerce",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-05 08:30:00,"RAG: Retrieval-Augmented Generation: técnica que permite a la IA buscar información en tus documentos o datos propios antes de responder.
 
-El bajo volumen es justo cuando cada cliente pesa más. Perder uno de diez duele más que perder uno de mil.
+RAG es una forma elegante de decirle a la IA: responde con base, no con imaginación.
 
-#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-18.png,,,,TRUE,FALSE,"soyia,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-10-07 08:30:00,"Un embudo no es un dibujo bonito. Es saber dónde se cae la gente.
-
-Si no sabes en qué etapa pierdes clientes, no tienes embudo. Tienes esperanza.
-
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #IAaplicada #PymesPanama #NegociosLATAM #VentasConProceso #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-18.png,,,,TRUE,FALSE,"soyia,dato",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-10-08 11:30:00,"46% de los líderes dice que su empresa ya usa agentes para automatizar flujos de trabajo completos.
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-18.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-06 11:30:00,"46% de los líderes dice que su empresa ya usa agentes para automatizar flujos de trabajo completos.
 
 La automatización ya no es “recordatorio y correo”. Es flujo completo.
 
 [FUENTE: Microsoft Work Trend Index]
 
-#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/cifra-18.png,,,,TRUE,FALSE,"soyia,cifra",Cifras IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-10-09 12:00:00,"Las objeciones más comunes para no automatizar casi siempre nacen de un malentendido. Mito por mito, esto es lo que de verdad pasa.
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-18.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-07 08:30:00,"La tecnología sin arquitectura se desordena caro. El diseño viene primero.
 
-#SoyIA #CriterioPrimero #AutomatizacionConCriterio #SeguimientoComercial #VentasConProceso #PymesPanama #NegociosLATAM #IAaplicada #ProcesoPrimero",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-09-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-09-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-09-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-09-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-09-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-09-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/complejo-09-slide-7.png",,,,TRUE,FALSE,"soyia,carrusel,premium,mitos",Carruseles Premium,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+En la Biblioteca SoyIA: «Designed for Digital», de Jeanne W. Ross, Cynthia M. Beath y Martin Mocker. Arquitectura empresarial para lo digital.
+
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-18.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-08 11:30:00,"El interesado pidió información del curso. Recibió el PDF y nada más. Se inscribió en otro lado.
+
+Mandar el folleto no es vender el curso. SoyIA responde dudas, hace seguimiento y acompaña al interesado hasta la matrícula.
+
+#SoyIA #CriterioPrimero #Educacion #Cursos #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-18-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-18-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-18-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,educacion",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-09 12:00:00,"Implementar IA no es un proyecto de tecnología. Es una decisión de negocio.
+
+La pregunta no es qué herramienta comprar. Es qué proceso quieres mejorar y por qué. Primero el criterio, después la herramienta.
+
+Carrusel. Deslízalo.
+
+#SoyIA #CriterioPrimero #MitosDeIA #AutomatizacionConCriterio #IAparaPymes #PymesPanama #NegociosLATAM #AutomatizacionSinHumo #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-06-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-06-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-06-slide-3.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-06-slide-4.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-06-slide-5.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-06-slide-6.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-06-slide-7.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/mito-06-slide-8.png",,,,TRUE,FALSE,"soyia,carrusel,mito",Mitos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-12 08:30:00,"Embedding: Forma de convertir texto, imágenes o datos en representaciones numéricas para que la IA compare significados, no solo palabras.
+
+Cuando la IA entiende similitud, deja de buscar palabras y empieza a encontrar intención.
+
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-19.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-13 11:30:00,"42% acude a la IA antes que a un colega por su disponibilidad 24/7; le siguen velocidad (30%) e ideas ilimitadas (28%).
+
+La IA no reemplaza al humano. Cubre lo que el humano no debería cargar solo.
+
+[FUENTE: Microsoft Work Trend Index]
+
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-19.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-14 08:30:00,"La transformación no es software. Es personas, procesos y criterio.
+
+En la Biblioteca SoyIA: «The Technology Fallacy», de Gerald C. Kane y otros. Personas y transformación digital.
+
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-19.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-15 11:30:00,"El huésped preguntó disponibilidad por WhatsApp a medianoche. Respondieron al desayuno. Ya reservó en otro hotel.
+
+El viajero decide cuando pregunta, no cuando tú abres la oficina. SoyIA responde y reserva las 24 horas.
+
+#SoyIA #CriterioPrimero #Hoteles #Turismo #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-19-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-19-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-19-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,hoteles",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-19 08:30:00,"Base vectorial: Base de datos diseñada para encontrar información parecida por significado; útil cuando quieres que una IA consulte tus documentos o conocimiento interno.
+
+La información no sirve por estar guardada. Sirve cuando puedes encontrarla en el momento correcto.
+
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-20.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-20 11:30:00,"52% todavía ve la IA como herramienta de comandos; solo 46% la trata como “socio de pensamiento”.
+
+La diferencia está entre pedirle cosas a la IA y pensar con ella.
+
+[FUENTE: Microsoft Work Trend Index]
+
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-20.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-21 08:30:00,"Transformarse no es digitalizar lo de siempre. Es repensar para qué lo haces.
+
+En la Biblioteca SoyIA: «The Digital Transformation Playbook», de David L. Rogers. Estrategia para la era digital.
+
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-20.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-22 11:30:00,"Alguien escribió pidiendo una primera cita. Le costó dar el paso. Nadie respondió a tiempo. No volvió a intentarlo.
+
+En salud mental, la primera respuesta importa el doble. SoyIA atiende con cuidado, agenda la primera sesión y no deja sola a la persona que dio el paso.
+
+#SoyIA #CriterioPrimero #Psicologia #SaludMental #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-20-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-20-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-20-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,psicologia",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-26 08:30:00,"Fine-tuning: Ajustar un modelo ya existente con datos específicos para que responda mejor en un tema, estilo o tarea concreta.
+
+No todo se arregla con fine-tuning. A veces lo que falta no es más IA, sino mejor proceso.
+
+#SoyIA #CriterioPrimero #DiccionarioIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #AprenderIA #ProcesoPrimero",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/termino-21.png,,,,TRUE,FALSE,"soyia,termino,diccionario",Términos,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-27 11:30:00,"66% de los usuarios de IA gana tiempo para trabajo de alto valor; 58% produce lo que no podía hace un año.
+
+La IA bien usada no abarata el trabajo humano. Lo sube de nivel.
+
+[FUENTE: Microsoft Work Trend Index 2026]
+
+#SoyIA #CriterioPrimero #DatosDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #TransformacionDigital #ProductividadConCriterio",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/dato-21.png,,,,TRUE,FALSE,"soyia,dato,cifra",Datos IA,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-28 08:30:00,"La ventaja ya no está en una herramienta. Está en el sistema que la conecta.
+
+En la Biblioteca SoyIA: «Machine, Platform, Crowd», de Andrew McAfee y Erik Brynjolfsson. Plataformas y futuro digital.
+
+#SoyIA #CriterioPrimero #BibliotecaSoyIA #LecturasDeIA #IAaplicada #AutomatizacionConCriterio #PymesPanama #NegociosLATAM #LiderazgoYDatos",,https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/libro-21.png,,,,TRUE,FALSE,"soyia,biblioteca,libro",Biblioteca,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-10-29 11:30:00,"Cerraste la venta, entregaste las llaves y ahí terminó el contacto. Ese cliente conocía a tres compradores más.
+
+La venta cerrada es el inicio de las próximas tres. SoyIA mantiene la relación post-venta y activa referidos sin que tengas que acordarte.
+
+#SoyIA #CriterioPrimero #RealEstate #BienesRaices #AutomatizacionConCriterio #SeguimientoComercial #PymesPanama #NegociosLATAM #IAaplicada",,"https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-21-slide-1.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-21-slide-2.png, https://raw.githubusercontent.com/abolivar/soyia-rrss/main/images/caso-21-slide-3.png",,,,TRUE,FALSE,"soyia,carrusel,real-estate",Casos por vertical,,post,post,,,,,,,,,,,,,,,,,,,,,,,,,,
